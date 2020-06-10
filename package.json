@@ -1,0 +1,27 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.1",
+  "description": "charlie's custom ticket bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieS1534/Ticket-Bot.git"
+  },
+  "keywords": [
+    "ticketbot"
+  ],
+  "author": "Charlie S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieS1534/Ticket-Bot/issues"
+  },
+  "homepage": "https://github.com/CharlieS1534/Ticket-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "leeks": "0.0.1"
+  },
+  "devDependencies": {}
+}
